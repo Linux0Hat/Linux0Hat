@@ -1,7 +1,7 @@
 # Linux0Hat
 *Here to contribute*  
 🇫🇷 Brest  
-15 yo
+16 yo
 
 [MDL](https://github.com/mdl29)'s member : worked on [esp-shooter](https://github.com/mdl29/esp-shooter), [mon_key](https://github.com/mdl29/mon_key) and [JacoBot](https://git.afpy.org/MDL29/JacoBot) (on AFPY as Adrien)
 
