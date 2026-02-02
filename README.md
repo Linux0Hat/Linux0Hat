@@ -1,5 +1,4 @@
 # Linux0Hat
-*Here to contribute*  
 🇫🇷 Brest  
 16 yo
 
